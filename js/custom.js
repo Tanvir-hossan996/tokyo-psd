@@ -1,6 +1,14 @@
 $(document).ready(function () {
 
     "use strict";
+    
+        //    preloder
+    
+    $(window).load(function(){
+        
+        $(".preloder").fadeOut(1000)
+        
+    });
 
 
     //smooth scroll and active menu button code
