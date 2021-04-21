@@ -1,0 +1,327 @@
+/*extra large device start*/
+
+@media (min-width:1200px) and (max-width:1399.98px){
+    
+    #progress .progress-left h2{
+        
+        font-size: 40px;
+    }
+}
+
+/*extra large device end*/
+
+
+
+/*large device start*/
+
+@media (min-width:992px) and (max-width:1199.98px) {
+
+    #about .about-text .about-skill ul li {
+
+        font-size: 16px;
+    }
+
+    #progress .progress-left h2 {
+
+        font-size: 34px;
+    }
+
+    #work .work-left h2 {
+
+        font-size: 30px;
+    }
+
+
+}
+
+/*large device end*/
+
+
+
+
+/*medium device start*/
+
+@media (min-width:768px) and (max-width:991.98px) {
+
+
+    .navbar-toggler {
+
+        color: white !important;
+        border-color: white !important;
+    }
+
+    .navbar-toggler:hover {
+
+        border-color: none;
+    }
+
+    .navbar-nav {
+
+        background: rgba(0, 0, 0, 0.79);
+    }
+
+    .navbar-nav .nav-item .nav-link {
+
+        line-height: 80px;
+        text-align: center;
+    }
+
+    #progress .progress-left {
+
+        padding-bottom: 40px;
+    }
+
+    #work .work-left h2 {
+
+        font-size: 23px;
+    }
+
+    #news {
+
+        padding-bottom: 30px;
+    }
+
+    #news .news-content .card {
+
+        padding-bottom: 70px;
+    }
+
+    #contact {
+
+        padding: 80px 0px;
+    }
+
+    #contact .contact-content .identity {
+
+        padding-bottom: 40px;
+    }
+
+    #footer .footer-copy p {
+
+        font-size: 13px;
+    }
+}
+
+
+/*medium device end*/
+
+/*small device start*/
+
+@media (min-width:576px) and (max-width:767.98px) {
+
+
+    .navbar-toggler {
+
+        color: white !important;
+        border-color: white !important;
+    }
+
+    .navbar-toggler:hover {
+
+        border-color: none;
+    }
+
+    .navbar-nav {
+
+        background: rgba(0, 0, 0, 0.79);
+    }
+
+    .navbar-nav .nav-item .nav-link {
+
+        line-height: 80px;
+        text-align: center;
+    }
+
+    #about {
+
+        padding-bottom: 50px;
+    }
+
+    #about .about-text p {
+
+        font-size: 14px;
+    }
+
+    #portfolio {
+
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+
+    #portfolio .portfolio-content .portfolio-item {
+
+        margin-bottom: 50px;
+    }
+
+    #progress {
+
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+
+    #progress .progress-left {
+
+        padding-bottom: 40px;
+    }
+
+    #progress .progress-left h2 {
+
+        font-size: 34px;
+    }
+
+    #work {
+
+        padding: 60px 0px;
+    }
+
+    #work .work-left h2 {
+
+        font-size: 17px;
+    }
+
+    #work .work-right a {
+
+        font-size: 12px;
+    }
+
+    #news {
+
+        padding-bottom: 0px;
+        padding-top: 60px;
+    }
+
+    #news .news-content .card {
+
+        padding-bottom: 70px;
+    }
+
+    #contact {
+
+        padding: 70px 0px;
+    }
+
+    #contact .contact-content .identity {
+
+        padding-bottom: 40px;
+    }
+
+    #footer .footer-copy p {
+
+        font-size: 9px;
+    }
+
+
+}
+
+
+/*small device end*/
+
+
+/*extra small device start*/
+
+@media (max-width:575.98px) {
+
+    .navbar-toggler {
+
+        color: white !important;
+        border-color: white !important;
+    }
+
+    .navbar-toggler:hover {
+
+        border-color: none;
+    }
+
+    .navbar-nav {
+
+        background: rgba(0, 0, 0, 0.79);
+    }
+
+    .navbar-nav .nav-item .nav-link {
+
+        line-height: 70px;
+        text-align: center;
+    }
+
+    #about {
+
+        padding-bottom: 50px;
+    }
+
+    #about .about-text p {
+
+        font-size: 14px;
+    }
+
+    #portfolio {
+
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+
+    #portfolio .portfolio-content .portfolio-item {
+
+        margin-bottom: 50px;
+    }
+
+    #progress {
+
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+
+    #progress .progress-left {
+
+        padding-bottom: 40px;
+    }
+
+    #progress .progress-left h2 {
+
+        font-size: 34px;
+    }
+
+    #work {
+
+        padding: 60px 0px;
+    }
+
+    #work .work-left h2 {
+
+        font-size: 17px;
+    }
+
+    #work .work-right a {
+
+        font-size: 12px;
+    }
+
+    #news {
+
+        padding-bottom: 0px;
+        padding-top: 60px;
+    }
+
+    #news .news-content .card {
+
+        padding-bottom: 70px;
+    }
+
+    #contact {
+
+        padding: 70px 0px;
+    }
+
+    #contact .contact-content .identity {
+
+        padding-bottom: 40px;
+    }
+
+    #footer .footer-copy p {
+
+        font-size: 9px;
+    }
+
+}
+
+
+/*extra small device ens*/
